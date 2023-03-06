@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/wedding-page/static/media/logo.06e73328.svg"
   },
   {
-    "revision": "67238c731fed892761d2f90964b03e90",
+    "revision": "6ca0be2542f8b46a7dc0f28046a1a18b",
     "url": "/wedding-page/index.html"
   }
 ];
